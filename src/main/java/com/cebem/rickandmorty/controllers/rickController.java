@@ -194,7 +194,7 @@ rojo, blanco y amarillo]
    Crea un endpoint que te devuelva un persona random 
    de la serie rick and morty
 
-   // GET https://rickandmortyapi.com/api/character/???
+   // GET https://rickandmortyapi.com/api/character/???git
    
    */
 
