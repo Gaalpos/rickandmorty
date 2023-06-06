@@ -59,7 +59,7 @@ public class rickController {
       params
     );
   }
-
+ 
   @PostMapping("/saveOnDisk")
   public String saveOnDisk(@RequestParam Map<String, String> body) {
     String name = body.get("name");

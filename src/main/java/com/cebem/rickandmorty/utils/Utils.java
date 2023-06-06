@@ -79,7 +79,7 @@ public class Utils {
           String rest = word.substring(1).toLowerCase();
           capitalizedText += fistLetter + rest + " ";
         }
-        return capitalizedText;
+        return capitalizedText.trim();
     }
 
     public static int getRandomValue(int max){
